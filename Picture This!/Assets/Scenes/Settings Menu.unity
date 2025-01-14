@@ -1428,7 +1428,6 @@ GameObject:
   - component: {fileID: 811127432}
   - component: {fileID: 811127431}
   - component: {fileID: 811127430}
-  - component: {fileID: 811127429}
   m_Layer: 5
   m_Name: Settings Menu Canvas
   m_TagString: Untagged
@@ -1436,20 +1435,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &811127429
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 811127428}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6654ba20b44fc6643bccec75bc8b4b60, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  SettingsMenu: {fileID: 403357909}
-  MainMenu: {fileID: 0}
 --- !u!114 &811127430
 MonoBehaviour:
   m_ObjectHideFlags: 0

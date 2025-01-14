@@ -21,6 +21,11 @@ public class OpenMenu : MonoBehaviour
         SceneManager.LoadSceneAsync(0, LoadSceneMode.Additive);
     }
 
+    public void ManagerScene()
+    {
+        SceneManager.LoadSceneAsync(3, LoadSceneMode.Additive);
+    }
+
     public void QuitGame()
     {
         Application.Quit();
