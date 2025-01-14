@@ -13,15 +13,15 @@ public class PenClick : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
     {
         if (SettingText.activeInHierarchy == true)
         {
-            ClosedPen.SetActive(true);
-            OpenPen.SetActive(false);
+            ClosedPen.SetActive(false);
+            OpenPen.SetActive(true);
         }
         
     }
 
     public void OnPointerExit(PointerEventData eventData)
     {
-        ClosedPen.SetActive(false);
-        OpenPen.SetActive(true);
+        ClosedPen.SetActive(true);
+        OpenPen.SetActive(false);
     }
 }
