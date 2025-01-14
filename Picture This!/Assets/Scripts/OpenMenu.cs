@@ -1,24 +1,29 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class OpenMenu : MonoBehaviour
 {
-    public GameObject SettingsMenu;
-    public GameObject MainMenu;
-
-    public void whenButtonClicked()
+    public void MenuButton()
     {
-        if (SettingsMenu.activeInHierarchy == true)
-        {
-            SettingsMenu.SetActive(false);
-            MainMenu.SetActive(true);
-        }
-        else
-        {
-            SettingsMenu.SetActive(true);
-            MainMenu.SetActive(false);
-        }
+        SceneManager.LoadScene(1, LoadSceneMode.Additive);
 
     }
+
+    public void PlayButton()
+    {
+        SceneManager.LoadSceneAsync(2, LoadSceneMode.Additive);
+    }
+    
+    public void SettingsButton()
+    {
+        SceneManager.LoadSceneAsync(0, LoadSceneMode.Additive);
+    }
+
+    public void QuitGame()
+    {
+        Application.Quit();
+    }
+
 }
