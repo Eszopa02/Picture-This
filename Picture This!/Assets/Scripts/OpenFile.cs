@@ -6,13 +6,20 @@ public class OpenFile : MonoBehaviour
 {
     public GameObject file;
 
+
     public void whenButtonClicked()
     {
         if (file.activeInHierarchy == true)
             file.SetActive(false);
         else
             file.SetActive(true);
+
+       
     }
+
+    
+
+    
 
     // Start is called before the first frame update
     void Start()
