@@ -2,20 +2,20 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ActivatePurpleSpotsButton : MonoBehaviour
+public class ActivatePurplePatternButton : MonoBehaviour
 {
-
-
     public GameObject PurpleSpotsPaper;
     public GameObject PurpleStripesPaper;
     public GameObject PurplePatternPaper;
     public GameObject PurpleFlowerPaper;
     public GameObject LilacPaper;
 
-    public GameObject BlueSpotsPaper;
-    public GameObject GreenSpotsPaper;
-    public GameObject PurpleSpotsPaperTwo;
-    public GameObject RedSpotsPaper;
+    public GameObject BluePatternPaper;
+    public GameObject GreenPatternPaper;
+    public GameObject PurplePatternPaperTwo;
+    public GameObject RedPatternPaper;
+    public GameObject OrangePatternPaper;
+    public GameObject YellowPatternPaper;
 
     public void DeactivateButtons()
     {
@@ -28,17 +28,18 @@ public class ActivatePurpleSpotsButton : MonoBehaviour
 
     public void ActivateButtons()
     {
-        BlueSpotsPaper.SetActive(true);
-        GreenSpotsPaper.SetActive(true);
-        PurpleSpotsPaperTwo.SetActive(true);
-        RedSpotsPaper.SetActive(true);
+        BluePatternPaper.SetActive(true);
+        GreenPatternPaper.SetActive(true);
+        PurplePatternPaperTwo.SetActive(true);
+        RedPatternPaper.SetActive(true);
+        OrangePatternPaper.SetActive(true);
+        YellowPatternPaper.SetActive(true);
     }
 
-    public void PurpleSpotsPaperButton()
+    public void PurplePatternPaperButton()
     {
         DeactivateButtons();
 
         ActivateButtons();
     }
 }
-   
