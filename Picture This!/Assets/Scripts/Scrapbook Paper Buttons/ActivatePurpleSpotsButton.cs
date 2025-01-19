@@ -13,6 +13,7 @@ public class ActivatePurpleSpotButton : MonoBehaviour
     public GameObject BlueSpotsPaper;
     public GameObject GreenSpotsPaper;
     public GameObject RedSpotsPaper;
+    public GameObject PurpleSpotsCanvas;
 
     public void DeactivateButton()
     {
@@ -27,8 +28,8 @@ public class ActivatePurpleSpotButton : MonoBehaviour
     {
         BlueSpotsPaper.SetActive(true);
         GreenSpotsPaper.SetActive(true);
-        PurpleSpotsPaper.SetActive(true);
         RedSpotsPaper.SetActive(true);
+        PurpleSpotsCanvas.SetActive(true);
     }
 
     public void PurpleSpots()

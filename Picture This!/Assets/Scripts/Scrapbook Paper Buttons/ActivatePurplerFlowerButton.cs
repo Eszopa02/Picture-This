@@ -18,6 +18,7 @@ public class ActivatePurpleFlowerButton : MonoBehaviour
     public GameObject PurpleFlowerPaper;
     public GameObject PurplePatternPaper;
     public GameObject LilacPaper;
+    public GameObject PurpleFlowerCanvas;
 
     public void DeactivateButtons()
     {
@@ -34,11 +35,11 @@ public class ActivatePurpleFlowerButton : MonoBehaviour
         BluePurpleFlowerPaper.SetActive(true);
         DarkPurpleFlowerPaper.SetActive(true);
         OrangeFlowerPaper.SetActive(true);
-        PurpleFlowerPaper.SetActive(true);
         RedFlowerPaper.SetActive(true);
         RedOrangeFlowerPaper.SetActive(true);
         RedPurpleFlowerPaper.SetActive(true);
         RedYellowFlowerPaper.SetActive(true);
+        PurpleFlowerCanvas.SetActive(true);
     }
 
     public void PurpleFlower()

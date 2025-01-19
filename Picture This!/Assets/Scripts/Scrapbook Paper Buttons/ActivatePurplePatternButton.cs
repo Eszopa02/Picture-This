@@ -17,7 +17,6 @@ public class ActivatePurplePatternButtons : MonoBehaviour
     public GameObject OrangePatternPaper;
     public GameObject YellowPatternPaper;
 
-    public GameObject PurpleStripesPaperBack;
 
     public void DeactivateButtons()
     {
@@ -26,7 +25,7 @@ public class ActivatePurplePatternButtons : MonoBehaviour
         PurplePatternPaper.SetActive(false);
         PurpleFlowerPaper.SetActive(false);
         LilacPaper.SetActive(false);
-        PurpleStripesPaperBack.SetActive(false);
+        
     }
 
     public void ActivateButtons()

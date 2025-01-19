@@ -13,6 +13,7 @@ public class ActivatePurpleStripesButton : MonoBehaviour
     public GameObject BlueStripesPaper;
     public GameObject GreenStripesPaper;
     public GameObject RedStripesPaper;
+    public GameObject PurpleStripesCanvas;
 
     public void DeactivateButtons()
     {
@@ -27,8 +28,8 @@ public class ActivatePurpleStripesButton : MonoBehaviour
     {
         BlueStripesPaper.SetActive(true);
         GreenStripesPaper.SetActive(true);
-        PurpleStripesPaper.SetActive(true);
         RedStripesPaper.SetActive(true);
+        PurpleStripesCanvas.SetActive(true);
     }
 
     public void PurpleStripes()
