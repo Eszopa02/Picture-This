@@ -21,6 +21,12 @@ public class OpenFile : MonoBehaviour
     public GameObject LilacPaper;
     public GameObject PurpleFlowerCanvas;
 
+    public GameObject CatOptionsButton;
+    public GameObject RandomAssetsButton;
+
+    public GameObject CatOptions;
+    public GameObject RandomOptions;
+
     public void whenButtonClicked()
     {
         if (file.activeInHierarchy == true)
@@ -32,6 +38,12 @@ public class OpenFile : MonoBehaviour
             PurplePatternPaper.SetActive(true);
             PurpleFlowerPaper.SetActive(true);
             LilacPaper.SetActive(true);
+
+            CatOptionsButton.SetActive(true);
+            RandomAssetsButton.SetActive(true);
+
+            CatOptions.SetActive(false);
+            RandomOptions.SetActive(false);
 
             ColorfulPaperBlue.SetActive(false);
             ColorfulPaperPink.SetActive(false);
@@ -45,13 +57,16 @@ public class OpenFile : MonoBehaviour
         {
             file.SetActive(true);
 
-            /*ColorfulPaperBlue.SetActive(false);
+            ColorfulPaperBlue.SetActive(false);
             ColorfulPaperPink.SetActive(false);
 
             FlowerOptions.SetActive(false);
             PatternOptions.SetActive(false);
             SpotsOptions.SetActive(false);
-            StripesOptions.SetActive(false); */
+            StripesOptions.SetActive(false);
+
+            CatOptions.SetActive(false);
+            RandomOptions.SetActive(false);
         }
             
             
