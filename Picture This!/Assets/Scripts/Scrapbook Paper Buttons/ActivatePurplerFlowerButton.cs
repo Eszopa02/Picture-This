@@ -20,6 +20,14 @@ public class ActivatePurpleFlowerButton : MonoBehaviour
     public GameObject LilacPaper;
     public GameObject PurpleFlowerCanvas;
 
+    public GameObject ColorfulPaperBlue;
+    public GameObject ColorfulPaperPink;
+
+    public GameObject FlowerOptions;
+    public GameObject PatternOptions;
+    public GameObject SpotsOptions;
+    public GameObject StripesOptions;
+
     public void DeactivateButtons()
     {
         PurpleSpotsPaper.SetActive(false);
@@ -27,10 +35,19 @@ public class ActivatePurpleFlowerButton : MonoBehaviour
         PurplePatternPaper.SetActive(false);
         PurpleFlowerPaper.SetActive(false);
         LilacPaper.SetActive(false);
+
     }
 
     public void ActivateButtons()
     {
+        //ColorfulPaperPink.SetActive(true);
+        //ColorfulPaperBlue.SetActive(true);
+        FlowerOptions.SetActive(true);
+        //PatternOptions.SetActive(true);
+        //SpotsOptions.SetActive(true);
+        //StripesOptions.SetActive(true);
+
+
         BrightOrangeFlowerPaper.SetActive(true);
         BluePurpleFlowerPaper.SetActive(true);
         DarkPurpleFlowerPaper.SetActive(true);

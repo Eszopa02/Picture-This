@@ -17,6 +17,13 @@ public class ActivatePurplePatternButtons : MonoBehaviour
     public GameObject OrangePatternPaper;
     public GameObject YellowPatternPaper;
 
+    public GameObject ColorfulPaperBlue;
+    public GameObject ColorfulPaperPink;
+
+    public GameObject FlowerOptions;
+    public GameObject PatternOptions;
+    public GameObject SpotsOptions;
+    public GameObject StripesOptions;
 
     public void DeactivateButtons()
     {
@@ -30,6 +37,19 @@ public class ActivatePurplePatternButtons : MonoBehaviour
 
     public void ActivateButtons()
     {
+        //ColorfulPaperPink.SetActive(true);
+        //ColorfulPaperBlue.SetActive(true);
+        //FlowerOptions.SetActive(true);
+        PatternOptions.SetActive(true);
+        //SpotsOptions.SetActive(true);
+        //StripesOptions.SetActive(true);
+
+        //PurpleSpotsPaper.SetActive(true);
+        //PurpleStripesPaper.SetActive(true);
+        //PurplePatternPaper.SetActive(true);
+        //PurpleFlowerPaper.SetActive(true);
+        //LilacPaper.SetActive(true);
+
         BluePatternPaper.SetActive(true);
         GreenPatternPaper.SetActive(true);
         PurplePatternPaperTwo.SetActive(true);

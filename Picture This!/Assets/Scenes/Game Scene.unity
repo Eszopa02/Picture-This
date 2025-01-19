@@ -4905,6 +4905,12 @@ MonoBehaviour:
   RedPatternPaper: {fileID: 221084079}
   OrangePatternPaper: {fileID: 1163539328}
   YellowPatternPaper: {fileID: 650910171}
+  ColorfulPaperBlue: {fileID: 1878395598}
+  ColorfulPaperPink: {fileID: 1246421028}
+  FlowerOptions: {fileID: 542589805}
+  PatternOptions: {fileID: 139981750}
+  SpotsOptions: {fileID: 84051446}
+  StripesOptions: {fileID: 398923742}
 --- !u!1 &954171300
 GameObject:
   m_ObjectHideFlags: 0
@@ -6193,6 +6199,12 @@ MonoBehaviour:
   PurpleFlowerPaper: {fileID: 1396296088}
   PurplePatternPaper: {fileID: 939717777}
   LilacPaper: {fileID: 1256442747}
+  ColorfulPaperBlue: {fileID: 1878395598}
+  ColorfulPaperPink: {fileID: 1246421028}
+  FlowerOptions: {fileID: 542589805}
+  PatternOptions: {fileID: 139981750}
+  SpotsOptions: {fileID: 84051446}
+  StripesOptions: {fileID: 398923742}
 --- !u!1 &1271319148
 GameObject:
   m_ObjectHideFlags: 0
@@ -6845,6 +6857,12 @@ MonoBehaviour:
   PurplePatternPaper: {fileID: 939717777}
   LilacPaper: {fileID: 1256442747}
   PurpleFlowerCanvas: {fileID: 888074796}
+  ColorfulPaperBlue: {fileID: 1878395598}
+  ColorfulPaperPink: {fileID: 1246421028}
+  FlowerOptions: {fileID: 542589805}
+  PatternOptions: {fileID: 139981750}
+  SpotsOptions: {fileID: 84051446}
+  StripesOptions: {fileID: 398923742}
 --- !u!1 &1405419494
 GameObject:
   m_ObjectHideFlags: 0
@@ -7281,6 +7299,12 @@ MonoBehaviour:
   GreenSpotsPaper: {fileID: 694379083}
   RedSpotsPaper: {fileID: 262757661}
   PurpleSpotsCanvas: {fileID: 1573159056}
+  ColorfulPaperBlue: {fileID: 1878395598}
+  ColorfulPaperPink: {fileID: 1246421028}
+  FlowerOptions: {fileID: 542589805}
+  PatternOptions: {fileID: 139981750}
+  SpotsOptions: {fileID: 84051446}
+  StripesOptions: {fileID: 398923742}
 --- !u!1 &1456275163
 GameObject:
   m_ObjectHideFlags: 0
@@ -7987,6 +8011,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   file: {fileID: 1626499096}
+  ColorfulPaperBlue: {fileID: 1878395598}
+  ColorfulPaperPink: {fileID: 1246421028}
+  FlowerOptions: {fileID: 542589805}
+  PatternOptions: {fileID: 139981750}
+  SpotsOptions: {fileID: 84051446}
+  StripesOptions: {fileID: 398923742}
+  PurpleSpotsPaper: {fileID: 1438446728}
+  PurpleStripesPaper: {fileID: 2032684075}
+  PurpleFlowerPaper: {fileID: 1396296088}
+  PurplePatternPaper: {fileID: 939717777}
+  LilacPaper: {fileID: 1256442747}
+  PurpleFlowerCanvas: {fileID: 1396296088}
 --- !u!114 &1615401383
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8098,7 +8134,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1626499097
 RectTransform:
   m_ObjectHideFlags: 0
@@ -10918,6 +10954,12 @@ MonoBehaviour:
   GreenStripesPaper: {fileID: 1456275163}
   RedStripesPaper: {fileID: 194592550}
   PurpleStripesCanvas: {fileID: 1062842428}
+  ColorfulPaperBlue: {fileID: 1878395598}
+  ColorfulPaperPink: {fileID: 1246421028}
+  FlowerOptions: {fileID: 542589805}
+  PatternOptions: {fileID: 139981750}
+  SpotsOptions: {fileID: 84051446}
+  StripesOptions: {fileID: 398923742}
 --- !u!1 &2041608816
 GameObject:
   m_ObjectHideFlags: 0

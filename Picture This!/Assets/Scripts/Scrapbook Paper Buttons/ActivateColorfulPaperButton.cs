@@ -24,6 +24,14 @@ public class ActivateColorfulPaperButton : MonoBehaviour
     public GameObject PurplePatternPaper;
     public GameObject LilacPaper;
 
+    public GameObject ColorfulPaperBlue;
+    public GameObject ColorfulPaperPink;
+
+    public GameObject FlowerOptions;
+    public GameObject PatternOptions;
+    public GameObject SpotsOptions;
+    public GameObject StripesOptions;
+
     public void DeactivateButtons()
     {
         PurpleSpotsPaper.SetActive(false);
@@ -35,6 +43,14 @@ public class ActivateColorfulPaperButton : MonoBehaviour
 
     public void ActivateButtons()
     {
+        ColorfulPaperPink.SetActive(true);
+        ColorfulPaperBlue.SetActive(true);
+        //FlowerOptions.SetActive(true);
+        //PatternOptions.SetActive(true);
+        //SpotsOptions.SetActive(true);
+        //StripesOptions.SetActive(true);
+
+
         AquaPaper.SetActive(true);
         BluePaper.SetActive(true);
         Blue2Paper.SetActive(true);
