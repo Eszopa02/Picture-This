@@ -25,6 +25,9 @@ public class ActivatePurplePatternButtons : MonoBehaviour
     public GameObject SpotsOptions;
     public GameObject StripesOptions;
 
+    public GameObject CatOptionsButton;
+    public GameObject RandomAssetsButton;
+
     public void DeactivateButtons()
     {
         PurpleSpotsPaper.SetActive(false);
@@ -32,7 +35,10 @@ public class ActivatePurplePatternButtons : MonoBehaviour
         PurplePatternPaper.SetActive(false);
         PurpleFlowerPaper.SetActive(false);
         LilacPaper.SetActive(false);
-        
+
+        CatOptionsButton.SetActive(false);
+        RandomAssetsButton.SetActive(false);
+
     }
 
     public void ActivateButtons()
