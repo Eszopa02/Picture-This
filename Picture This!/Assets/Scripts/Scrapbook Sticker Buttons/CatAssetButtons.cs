@@ -20,9 +20,11 @@ public class CatAssetButtons : MonoBehaviour
 
     public GameObject CatOptionsButton;
     public GameObject RandomAssetsButton;
+    public GameObject DogOptionsButton;
 
     public GameObject CatOptions;
     public GameObject RandomOptions;
+    public GameObject DogOptions;
 
     public void DeactivateButtons()
     {
@@ -34,6 +36,7 @@ public class CatAssetButtons : MonoBehaviour
 
         CatOptionsButton.SetActive(false);
         RandomAssetsButton.SetActive(false);
+        DogOptionsButton.SetActive(false);
 
     }
 

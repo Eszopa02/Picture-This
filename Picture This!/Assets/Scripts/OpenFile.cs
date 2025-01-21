@@ -23,9 +23,11 @@ public class OpenFile : MonoBehaviour
 
     public GameObject CatOptionsButton;
     public GameObject RandomAssetsButton;
+    public GameObject DogOptionsButton;
 
     public GameObject CatOptions;
     public GameObject RandomOptions;
+    public GameObject DogOptions;
 
     public void whenButtonClicked()
     {
@@ -41,9 +43,12 @@ public class OpenFile : MonoBehaviour
 
             CatOptionsButton.SetActive(true);
             RandomAssetsButton.SetActive(true);
+            DogOptionsButton.SetActive(true);
 
             CatOptions.SetActive(false);
             RandomOptions.SetActive(false);
+            DogOptions.SetActive(false);
+
 
             ColorfulPaperBlue.SetActive(false);
             ColorfulPaperPink.SetActive(false);
@@ -67,6 +72,7 @@ public class OpenFile : MonoBehaviour
 
             CatOptions.SetActive(false);
             RandomOptions.SetActive(false);
+            DogOptions.SetActive(false);
         }
             
             
