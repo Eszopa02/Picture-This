@@ -62,7 +62,7 @@ public class ActivateColorfulPaperButton : MonoBehaviour
         Blue2Paper.SetActive(true);
         DarkPinkPaper.SetActive(true);
         GreenPaper.SetActive(true);
-        LilacPaper.SetActive(true);
+        LilacPaperTwo.SetActive(true);
         MintBluePaper.SetActive(true);
         PinkPaper.SetActive(true);
         Pink2Paper.SetActive(true);

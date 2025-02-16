@@ -29,6 +29,10 @@ public class OpenFile : MonoBehaviour
     public GameObject RandomOptions;
     public GameObject DogOptions;
 
+    public GameObject PaperOptions;
+
+    public GameObject StickerOptions;
+
     public void whenButtonClicked()
     {
         if (file.activeInHierarchy == true)
@@ -80,19 +84,4 @@ public class OpenFile : MonoBehaviour
        
     }
 
-    
-
-    
-
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
