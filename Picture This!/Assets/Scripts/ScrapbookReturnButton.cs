@@ -8,7 +8,8 @@ public class ScrapbookReturnButton : MonoBehaviour
     public GameObject PatternOptions;
     public GameObject SpotsOptions;
     public GameObject StripesOptions;
-    public GameObject ColorfulOptions;
+    public GameObject ColorfulOptionsRed;
+    public GameObject ColorfulOptionsBlue;
 
     public GameObject PurpleFlower;
     public GameObject PurplePattern;
@@ -22,7 +23,8 @@ public class ScrapbookReturnButton : MonoBehaviour
         PatternOptions.SetActive(false);
         SpotsOptions.SetActive(false);
         StripesOptions.SetActive(false);
-        ColorfulOptions.SetActive(false);
+        ColorfulOptionsRed.SetActive(false);
+        ColorfulOptionsBlue.SetActive(false);
     }
 
     public void ActivateButtons()
