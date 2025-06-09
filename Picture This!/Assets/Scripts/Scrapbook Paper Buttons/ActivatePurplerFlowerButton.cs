@@ -8,17 +8,14 @@ public class ActivatePurpleFlowerButton : MonoBehaviour
     public GameObject BluePurpleFlowerPaper;
     public GameObject DarkPurpleFlowerPaper;
     public GameObject OrangeFlowerPaper;
-    public GameObject RedFlowerPaper;
-    public GameObject RedOrangeFlowerPaper;
     public GameObject RedPurpleFlowerPaper;
     public GameObject RedYellowFlowerPaper;
 
-    public GameObject PurpleSpotsPaper;
-    public GameObject PurpleStripesPaper;
-    public GameObject PurpleFlowerPaper;
-    public GameObject PurplePatternPaper;
-    public GameObject LilacPaper;
-    public GameObject PurpleFlowerCanvas;
+    public GameObject PurpleSpotsPaperDeactivate;
+    public GameObject PurpleStripesPaperDeactivate;
+    public GameObject PurpleFlowerPaperDeactivate;
+    public GameObject PurplePatternPaperDeactivate;
+    public GameObject LilacPaperDeactivate;
 
     public GameObject ColorfulPaperBlue;
     public GameObject ColorfulPaperPink;
@@ -28,41 +25,30 @@ public class ActivatePurpleFlowerButton : MonoBehaviour
     public GameObject SpotsOptions;
     public GameObject StripesOptions;
 
-    public GameObject CatOptionsButton;
-    public GameObject RandomAssetsButton;
 
     public void DeactivateButtons()
     {
-        PurpleSpotsPaper.SetActive(false);
-        PurpleStripesPaper.SetActive(false);
-        PurplePatternPaper.SetActive(false);
-        PurpleFlowerPaper.SetActive(false);
-        LilacPaper.SetActive(false);
+        PurpleSpotsPaperDeactivate.SetActive(false);
+        PurpleStripesPaperDeactivate.SetActive(false);
+        PurplePatternPaperDeactivate.SetActive(false);
+        PurpleFlowerPaperDeactivate.SetActive(false);
+        LilacPaperDeactivate.SetActive(false);
 
-        CatOptionsButton.SetActive(false);
-        RandomAssetsButton.SetActive(false);
 
     }
 
     public void ActivateButtons()
     {
-        //ColorfulPaperPink.SetActive(true);
-        //ColorfulPaperBlue.SetActive(true);
+
         FlowerOptions.SetActive(true);
-        //PatternOptions.SetActive(true);
-        //SpotsOptions.SetActive(true);
-        //StripesOptions.SetActive(true);
 
 
         BrightOrangeFlowerPaper.SetActive(true);
         BluePurpleFlowerPaper.SetActive(true);
         DarkPurpleFlowerPaper.SetActive(true);
         OrangeFlowerPaper.SetActive(true);
-        RedFlowerPaper.SetActive(true);
-        RedOrangeFlowerPaper.SetActive(true);
         RedPurpleFlowerPaper.SetActive(true);
         RedYellowFlowerPaper.SetActive(true);
-        PurpleFlowerCanvas.SetActive(true);
     }
 
     public void PurpleFlower()

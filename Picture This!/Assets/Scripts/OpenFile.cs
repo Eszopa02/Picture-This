@@ -21,17 +21,10 @@ public class OpenFile : MonoBehaviour
     public GameObject LilacPaper;
     public GameObject PurpleFlowerCanvas;
 
-    public GameObject CatOptionsButton;
-    public GameObject RandomAssetsButton;
-    public GameObject DogOptionsButton;
-
-    public GameObject CatOptions;
-    public GameObject RandomOptions;
-    public GameObject DogOptions;
 
     public GameObject PaperOptions;
 
-    public GameObject StickerOptions;
+
 
     public void whenButtonClicked()
     {
@@ -44,14 +37,6 @@ public class OpenFile : MonoBehaviour
             PurplePatternPaper.SetActive(true);
             PurpleFlowerPaper.SetActive(true);
             LilacPaper.SetActive(true);
-
-            CatOptionsButton.SetActive(true);
-            RandomAssetsButton.SetActive(true);
-            DogOptionsButton.SetActive(true);
-
-            CatOptions.SetActive(false);
-            RandomOptions.SetActive(false);
-            DogOptions.SetActive(false);
 
 
             ColorfulPaperBlue.SetActive(false);
@@ -73,10 +58,6 @@ public class OpenFile : MonoBehaviour
             PatternOptions.SetActive(false);
             SpotsOptions.SetActive(false);
             StripesOptions.SetActive(false);
-
-            CatOptions.SetActive(false);
-            RandomOptions.SetActive(false);
-            DogOptions.SetActive(false);
         }
             
             

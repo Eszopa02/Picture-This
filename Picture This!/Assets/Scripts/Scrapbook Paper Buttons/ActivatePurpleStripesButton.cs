@@ -4,11 +4,11 @@ using UnityEngine;
 
 public class ActivatePurpleStripesButton : MonoBehaviour
 {
-    public GameObject PurpleSpotsPaper;
-    public GameObject PurpleStripesPaper;
-    public GameObject PurplePatternPaper;
-    public GameObject PurpleFlowerPaper;
-    public GameObject LilacPaper;
+    public GameObject PurpleSpotsPaperDeactivate;
+    public GameObject PurpleStripesPaperDeactivate;
+    public GameObject PurplePatternPaperDeactivate;
+    public GameObject PurpleFlowerPaperDeactivate;
+    public GameObject LilacPaperDeactivate;
 
     public GameObject BlueStripesPaper;
     public GameObject GreenStripesPaper;
@@ -23,28 +23,17 @@ public class ActivatePurpleStripesButton : MonoBehaviour
     public GameObject SpotsOptions;
     public GameObject StripesOptions;
 
-    public GameObject CatOptionsButton;
-    public GameObject RandomAssetsButton;
-
     public void DeactivateButtons()
     {
-        PurpleSpotsPaper.SetActive(false);
-        PurpleStripesPaper.SetActive(false);
-        PurplePatternPaper.SetActive(false);
-        PurpleFlowerPaper.SetActive(false);
-        LilacPaper.SetActive(false);
-
-        CatOptionsButton.SetActive(false);
-        RandomAssetsButton.SetActive(false);
+        PurpleSpotsPaperDeactivate.SetActive(false);
+        PurpleStripesPaperDeactivate.SetActive(false);
+        PurplePatternPaperDeactivate.SetActive(false);
+        PurpleFlowerPaperDeactivate.SetActive(false);
+        LilacPaperDeactivate.SetActive(false);
     }
 
     public void ActivateButtons()
     {
-        //ColorfulPaperPink.SetActive(true);
-        //ColorfulPaperBlue.SetActive(true);
-        //FlowerOptions.SetActive(true);
-        //PatternOptions.SetActive(true);
-        //SpotsOptions.SetActive(true);
         StripesOptions.SetActive(true);
 
 
