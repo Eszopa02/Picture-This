@@ -15102,16 +15102,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Stickerbook: {fileID: 747149690}
-  CatOptionsButton: {fileID: 0}
-  RandomAssetsButton: {fileID: 0}
-  DogOptionsButton: {fileID: 0}
-  LowercaseLettersButton: {fileID: 0}
-  CapitalLettersButton: {fileID: 0}
-  CatOptions: {fileID: 0}
-  RandomOptions: {fileID: 0}
-  DogOptions: {fileID: 0}
-  LowercaseOptions: {fileID: 0}
-  CapitalOptions: {fileID: 0}
+  CatOptionsButton: {fileID: 1614089912}
+  RandomAssetsButton: {fileID: 1076664335}
+  DogOptionsButton: {fileID: 347420309}
+  LowercaseLettersButton: {fileID: 1263007333}
+  CapitalLettersButton: {fileID: 1132900147}
+  CatOptions: {fileID: 820724938}
+  RandomOptions: {fileID: 641853124}
+  DogOptions: {fileID: 1876871470}
+  LowercaseOptions: {fileID: 640601097}
+  CapitalOptions: {fileID: 4041933}
 --- !u!1 &1467852685
 GameObject:
   m_ObjectHideFlags: 0
