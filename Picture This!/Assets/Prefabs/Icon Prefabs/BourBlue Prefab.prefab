@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 5526172682297113029}
   - component: {fileID: 402059803146740406}
   - component: {fileID: 773304705432949579}
+  - component: {fileID: 4152977346292863927}
   m_Layer: 5
   m_Name: BourBlue Prefab
   m_TagString: Untagged
@@ -75,3 +76,15 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &4152977346292863927
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4113589822395444101}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c52c447aab729fa47b1cd7fde00c9b9d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

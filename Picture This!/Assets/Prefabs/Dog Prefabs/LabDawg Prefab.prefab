@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 789883549098349441}
   - component: {fileID: 3136212798871187344}
   - component: {fileID: 2547383094163927580}
+  - component: {fileID: -3893044808058572622}
   m_Layer: 5
   m_Name: LabDawg Prefab
   m_TagString: Untagged
@@ -75,3 +76,15 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &-3893044808058572622
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8444083489498453955}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c52c447aab729fa47b1cd7fde00c9b9d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
