@@ -39,10 +39,14 @@ public class CatStickers : MonoBehaviour
 
     }
 
+    
+
     public void CatButton()
     {
         DeactivateButtons();
 
         ActivateButtons();
     }
+
+   
 }
