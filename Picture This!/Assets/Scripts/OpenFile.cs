@@ -32,7 +32,7 @@ public class OpenFile : MonoBehaviour
         {
             file.SetActive(false);
 
-            PurpleSpotsPaper.SetActive(true);
+           /* PurpleSpotsPaper.SetActive(true);
             PurpleStripesPaper.SetActive(true);
             PurplePatternPaper.SetActive(true);
             PurpleFlowerPaper.SetActive(true);
@@ -45,19 +45,19 @@ public class OpenFile : MonoBehaviour
             FlowerOptions.SetActive(false);
             PatternOptions.SetActive(false);
             SpotsOptions.SetActive(false);
-            StripesOptions.SetActive(false);
+            StripesOptions.SetActive(false); */
         }
         else
         {
             file.SetActive(true);
 
-            ColorfulPaperBlue.SetActive(false);
+            /*ColorfulPaperBlue.SetActive(false);
             ColorfulPaperPink.SetActive(false);
 
             FlowerOptions.SetActive(false);
             PatternOptions.SetActive(false);
             SpotsOptions.SetActive(false);
-            StripesOptions.SetActive(false);
+            StripesOptions.SetActive(false); */
         }
             
             
