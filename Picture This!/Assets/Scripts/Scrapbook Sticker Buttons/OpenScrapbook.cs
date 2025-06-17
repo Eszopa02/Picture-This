@@ -4,15 +4,14 @@ using UnityEngine;
 
 public class OpenScrapbook : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    public GameObject Scrapbook; 
 
-    // Update is called once per frame
-    void Update()
+    public void WhenButtonClicked()
     {
         
+          Scrapbook.SetActive(true);
+
+
+
     }
 }
