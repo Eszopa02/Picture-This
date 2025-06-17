@@ -47,6 +47,7 @@ public class DogStickers : MonoBehaviour
 
     public void DogButton()
     {
+        
         DeactivateButtons();
 
         ActivateButtons();
