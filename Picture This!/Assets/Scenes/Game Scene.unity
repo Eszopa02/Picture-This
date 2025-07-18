@@ -611,7 +611,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 8391449}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 8391451}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &8391449
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -662,7 +674,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 3372304745880188657, guid: 805cc3b55a00f8b4ebc13e1ed6dac8dc, type: 3}
+  prefabToSpawn: {fileID: 7065785229552509047, guid: 34f2160c70c08f64ea2854cecf6a31ff, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &12307113
 GameObject:
@@ -858,7 +870,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 15060863}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 15060865}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &15060863
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -909,7 +933,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 6504257400238559493, guid: 26fcec7c155b2b84a9eebe90cec3cfec, type: 3}
+  prefabToSpawn: {fileID: 4568018838754118025, guid: 39fb366c6aa91fc4db7d5cff7888c94e, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &24581206
 GameObject:
@@ -1605,7 +1629,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 98595929}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 98595931}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &98595929
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1656,7 +1692,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 7933288395700000811, guid: 8bf86e94e4e906449b32e438ede49b98, type: 3}
+  prefabToSpawn: {fileID: 4092389585598647176, guid: ed91c59a68104ae45b5710436f45e8da, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &100147059
 GameObject:
@@ -2003,7 +2039,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 133300007}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 133300009}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &133300007
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2054,7 +2102,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 8582709694087373090, guid: 0dace72038ed66b47bdf64d4aca3dbfd, type: 3}
+  prefabToSpawn: {fileID: 4477978336286609938, guid: 979138a1255312548835f594e5d21c20, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &134583968
 GameObject:
@@ -2138,7 +2186,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 134583971}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 134583973}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &134583971
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2189,7 +2249,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 1277728778411385691, guid: e89c04e01d27d3746bb2b9e02be98b88, type: 3}
+  prefabToSpawn: {fileID: 3508810078955057018, guid: 33fcce312a1477c4287219e999de00f5, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &138277413
 GameObject:
@@ -2273,7 +2333,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 138277416}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 138277418}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &138277416
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2324,7 +2396,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 2722672307808233484, guid: a2c0395d75a2eb14ea2c6baa97399bbf, type: 3}
+  prefabToSpawn: {fileID: 5493925569669884092, guid: c52bc083ece17a9438d77f46c4765b0a, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &139981750
 GameObject:
@@ -2550,7 +2622,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 176170441}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 176170443}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &176170441
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2601,7 +2685,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 5975479744320986450, guid: 938cdf9eb121beb4e8d3c666d47f08ce, type: 3}
+  prefabToSpawn: {fileID: 7670107868162398516, guid: 1dc548f6bf4ad8648b517882ba2cd3de, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &184265036
 GameObject:
@@ -2819,7 +2903,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 186328526}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 186328528}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &186328526
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2870,7 +2966,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 6756061585930424333, guid: 4367022059ead3a4a9d6fd0ea1fbdec3, type: 3}
+  prefabToSpawn: {fileID: 7481281340639686642, guid: c535dabae5b968e4f8ea11aa3568e04e, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &200096095
 GameObject:
@@ -3127,7 +3223,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 213409922}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 213409924}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &213409922
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3178,7 +3286,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 4097707699174635387, guid: a9ef82b7cf97311419fbda8538d23751, type: 3}
+  prefabToSpawn: {fileID: 9162966266677171459, guid: 032d9f896e0dea849a40b36c0ca23205, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &213551916
 GameObject:
@@ -3262,7 +3370,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 213551919}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 213551921}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &213551919
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3313,7 +3433,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 520988070657105331, guid: c10025fbf921a23499fc1752ef6c13cd, type: 3}
+  prefabToSpawn: {fileID: 4551943527529268907, guid: fa98a1fdeb6dc6e4892a1fb7fdc64840, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &217708331
 GameObject:
@@ -3397,7 +3517,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 217708334}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 217708336}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &217708334
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3448,7 +3580,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 5223091927941803034, guid: 1860db27f0cdb7d408dd06bf21c5ba8b, type: 3}
+  prefabToSpawn: {fileID: 5525970219314875849, guid: 97fb23f058ba6694799885e90b1cb24d, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &222184026
 GameObject:
@@ -3742,7 +3874,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 227068766}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 227068768}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &227068766
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3793,7 +3937,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 5363733859611009124, guid: 6d130d2f2b05c2c488c6c9d507ba4f57, type: 3}
+  prefabToSpawn: {fileID: 6130405408572035683, guid: fce987e2e2254ac4b8f1d2c3d69d51a1, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &240037911
 GameObject:
@@ -4050,7 +4194,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 257105985}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 257105987}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &257105985
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4101,7 +4257,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 1150265549682520558, guid: cd94f9fbb7958ee4abc7e3f17496c38c, type: 3}
+  prefabToSpawn: {fileID: 4797289223369221106, guid: 792d89211bef9a14c97907e05cee8aeb, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &269674191
 GameObject:
@@ -4357,7 +4513,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 289571766}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 289571768}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &289571766
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4408,7 +4576,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 6473294404998986474, guid: efcc185acf68ac6438f755adece72c55, type: 3}
+  prefabToSpawn: {fileID: 3319762694943606511, guid: 38c8184cf7ab5744e9ffc3273a28eca1, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &292765434
 GameObject:
@@ -4606,7 +4774,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 300957240}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 300957242}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &300957240
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4657,7 +4837,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 5802976978628774948, guid: 05065f0792e36b84c8c71766121dd930, type: 3}
+  prefabToSpawn: {fileID: 1528738686550172525, guid: d5ad4bf9db2c9de4a953be764563ed64, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &312306631
 GameObject:
@@ -5140,7 +5320,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 321375236}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 321375238}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &321375236
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5191,7 +5383,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 1775174448263934605, guid: 793fb41f81dc0e34698791fc20381f12, type: 3}
+  prefabToSpawn: {fileID: 1295410526527130513, guid: 699ea4d487ee4434b9f6740966b18d6b, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &331387028
 GameObject:
@@ -5372,7 +5564,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 341003734}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 341003736}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &341003734
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5423,7 +5627,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 5748948821272273066, guid: 64684dc453801e9458a6519158c92cca, type: 3}
+  prefabToSpawn: {fileID: 4031577902887986881, guid: 98ad44c230044d0409fa2c5580d98be9, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &347420309
 GameObject:
@@ -6064,7 +6268,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 355099487}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 355099489}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &355099487
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6115,7 +6331,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 8213603806145532486, guid: 190adcadae0fe204fadd0d4009922f91, type: 3}
+  prefabToSpawn: {fileID: 8867462956674530678, guid: f9d739f719d61c14083b10fd2de75301, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &357254567
 GameObject:
@@ -6199,7 +6415,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 357254570}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 357254572}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &357254570
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6250,7 +6478,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 7754399346099239366, guid: bddb8a35ce4dd344eb4e58e0e3f52180, type: 3}
+  prefabToSpawn: {fileID: 2436788251608997775, guid: e4e1ae536975d5548bf380ca5dffa2c5, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &370804886
 GameObject:
@@ -6508,7 +6736,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 390924508}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 390924510}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &390924508
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6559,7 +6799,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 1463243384847662683, guid: a386192a5a76e0941a43cf67e31ff807, type: 3}
+  prefabToSpawn: {fileID: 4193818990129053466, guid: 4862be7a10b61a3419ac48ba8f4874ff, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &396668823
 GameObject:
@@ -7138,7 +7378,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 423877510}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 423877512}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &423877510
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7189,7 +7441,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 7633398200451379044, guid: 0cee48a2983ced142a53a879f9f1da80, type: 3}
+  prefabToSpawn: {fileID: 2406384532240884724, guid: de8aa87f01a6f4c44bf0ee195860624d, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &424491558
 GameObject:
@@ -7432,7 +7684,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 431129811}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 431129813}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &431129811
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7483,7 +7747,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 4036690447117600892, guid: a7b34700b7af9124d98b92a12667cfb6, type: 3}
+  prefabToSpawn: {fileID: 3187849350501727604, guid: 82dfe3b0987452741be9f5c82164050f, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &451472266
 GameObject:
@@ -7670,7 +7934,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 458646566}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 458646568}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &458646566
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7721,7 +7997,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 9219565326218503473, guid: 3ad3e92348bd05644abbd4fec748e7a9, type: 3}
+  prefabToSpawn: {fileID: 6285852285573643905, guid: 5938b9787bcf2a346a0e451dedf3974b, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &464423046
 GameObject:
@@ -7842,7 +8118,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 473463121}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 473463123}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &473463121
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7893,7 +8181,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 3955652054197071460, guid: c23c03b1cb1b85548a3e5606ea2c1b7b, type: 3}
+  prefabToSpawn: {fileID: 1417031819613844410, guid: d1a573b91d7ee91418d61b0f12b6e91b, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &477127097
 GameObject:
@@ -7977,7 +8265,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 477127100}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 477127102}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &477127100
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8028,7 +8328,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 951084843892720538, guid: fc6b6b8a9aa527d4a959848e166bd32c, type: 3}
+  prefabToSpawn: {fileID: 582704077728045245, guid: 19b9913b0e8b1134a8e46131fdf104d6, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &492278240
 GameObject:
@@ -8388,7 +8688,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 510586080}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 510586082}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &510586080
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8439,7 +8751,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 4698656482477149332, guid: 372df5cf0427fa2459a81e0620bb67d7, type: 3}
+  prefabToSpawn: {fileID: 6925136665686636652, guid: 93ad9e1414379df4d93d2ec7f4061fad, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &518169666
 GameObject:
@@ -8523,7 +8835,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 518169669}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 518169671}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &518169669
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8574,7 +8898,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 2398713772542022045, guid: 4e459a04d76879847932e229813f89e4, type: 3}
+  prefabToSpawn: {fileID: 413004555818864812, guid: 0d4b05e58c59c7f458714f08879e9c58, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &529303285
 GameObject:
@@ -9175,7 +9499,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 557204786}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 557204788}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &557204786
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9226,7 +9562,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 522925941435326327, guid: dd04525a54e580c419ed474b71dad428, type: 3}
+  prefabToSpawn: {fileID: 6183013352005802408, guid: 2114dc1ff826b144cade432185e0fc45, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &563510040
 GameObject:
@@ -9459,7 +9795,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 567722692}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 567722694}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &567722692
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9510,7 +9858,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 7719550853045780638, guid: d68228ee6cbee6d409de48e1e1ea5616, type: 3}
+  prefabToSpawn: {fileID: 3252431785156037301, guid: 712322fa2bedd1245b8bfe7f9e0812f8, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &576695468
 GameObject:
@@ -10066,7 +10414,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 629112689}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 629112691}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &629112689
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10117,7 +10477,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 9061446987241322244, guid: b08d7b3b45c68014db7752dba3f89143, type: 3}
+  prefabToSpawn: {fileID: 3510426774919470480, guid: 2c6fb92629991304faefae97b5c32b02, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &632207452
 GameObject:
@@ -10201,7 +10561,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 632207455}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 632207457}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &632207455
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10252,7 +10624,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 7241799770976340695, guid: cb7bbf8d48743cf428b4eec7775c2da6, type: 3}
+  prefabToSpawn: {fileID: 606960199476852413, guid: 2b3b53e28821f3a4692287edc9862855, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &634405809
 GameObject:
@@ -10336,7 +10708,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 634405812}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 634405814}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &634405812
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10387,7 +10771,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 900455740075665339, guid: 8167a78b3801d284db4149682e541bbf, type: 3}
+  prefabToSpawn: {fileID: 7156109192915827381, guid: e093184f8e9db1045b3304786c95cdf5, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &636421221
 GameObject:
@@ -10471,7 +10855,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 636421224}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 636421226}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &636421224
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10522,7 +10918,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 7572748401290164597, guid: fed5d4de86eda8b46bbdfd40c9953484, type: 3}
+  prefabToSpawn: {fileID: 1464042757828289441, guid: bcf126e45f7822e4eb7b33405388b486, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &639152991
 GameObject:
@@ -10750,7 +11146,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 642643044}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 642643046}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &642643044
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10801,7 +11209,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 4052080662482710795, guid: 9af1814f3a4d6244796639f37470a8cf, type: 3}
+  prefabToSpawn: {fileID: 2092194997255922912, guid: 904258bbbb712ca4e9213abd326a1005, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &651683117
 GameObject:
@@ -11263,7 +11671,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 679048849}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 679048851}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &679048849
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11314,7 +11734,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 6473098592811829895, guid: 890e5f181d258d542ba1acc4c52ce5fe, type: 3}
+  prefabToSpawn: {fileID: 472542258839597011, guid: 573a7c4b88c89e84799f0ccc09d42d5e, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &713263275
 GameObject:
@@ -11894,7 +12314,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 748833768}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 748833770}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &748833768
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11945,7 +12377,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 7414765373359870239, guid: 1b39340c225ed3b4ea06c0272a15b674, type: 3}
+  prefabToSpawn: {fileID: 2930241940830880709, guid: 86cc00eade7e8c6418bb72c8180f7dc8, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &763991825
 GameObject:
@@ -12509,7 +12941,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 807869517}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 807869519}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &807869517
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12560,7 +13004,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 4750305900516169939, guid: 7046606c382d51e4bb8be159206a062a, type: 3}
+  prefabToSpawn: {fileID: 7763793018658876929, guid: 24961024654d8f4449134f7b89d81cde, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &811127428
 GameObject:
@@ -13303,7 +13747,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 888013835}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 888013837}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &888013835
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13354,7 +13810,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 8676853318245078606, guid: 9ca539955e34b8846addefd0a68d659b, type: 3}
+  prefabToSpawn: {fileID: 8000099087404894379, guid: 51cf7ec7be5df4c4484f6d2c7945d814, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &893502138
 GameObject:
@@ -13438,7 +13894,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 893502141}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 893502143}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &893502141
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13489,7 +13957,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 6291718039733767560, guid: a9b67cca003a0a74fa909b316150cabf, type: 3}
+  prefabToSpawn: {fileID: 5315479695318077550, guid: 6291a0223f22c7b4289af98f2b8bfa94, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &894057605
 GameObject:
@@ -13573,7 +14041,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 894057608}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 894057610}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &894057608
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13624,7 +14104,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 1166226453229518900, guid: cfc041031be897146b637225f1ac1520, type: 3}
+  prefabToSpawn: {fileID: 4654536805013805150, guid: 72b7cb986bea47f468b541ae67b73b54, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &918120460
 GameObject:
@@ -13708,7 +14188,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 918120463}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 918120465}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &918120463
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13759,7 +14251,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 3314311369908618339, guid: 241bf5e136fb7344f831a187f9127cce, type: 3}
+  prefabToSpawn: {fileID: 1525540266690330867, guid: e437c8cf9fead6c4caa33fe162e5d277, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &918540442
 GameObject:
@@ -14144,7 +14636,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 7866676715220110331, guid: 08db4156039e7fc4e927c3222d798c0a, type: 3}
+  prefabToSpawn: {fileID: 6946605556326187203, guid: 45abe6105f75bcd42ad732ac31ef6bad, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &931899402
 GameObject:
@@ -14228,7 +14720,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 931899405}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 931899407}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &931899405
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14279,7 +14783,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 3988567775617815468, guid: 267165f5a912d3e49a9330f43ebaab14, type: 3}
+  prefabToSpawn: {fileID: 7017983946117642887, guid: 799fe76d5d0ae494aa4f32978d36427a, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &932332565
 GameObject:
@@ -14363,7 +14867,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 932332568}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 932332570}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &932332568
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14414,7 +14930,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 4368868337343938627, guid: b179c620dc8888f41ad6b85740cde657, type: 3}
+  prefabToSpawn: {fileID: 651885629995562971, guid: 7c2c37abaecfc8a429a950463c1645d4, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &932646746
 GameObject:
@@ -15018,7 +15534,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 959395671}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 959395673}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &959395671
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15069,7 +15597,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 8803089839477268644, guid: 888ceea462304a0479a84ec5fb264fa1, type: 3}
+  prefabToSpawn: {fileID: 5950100059806769967, guid: ce7bb8f71ae9c6d4fa7667baaa5a3239, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &961023634
 GameObject:
@@ -15302,7 +15830,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1013892465}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1013892467}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1013892465
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15353,7 +15893,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 5534916160077342171, guid: 02a69a4bbd0975948931831bfc5ed97f, type: 3}
+  prefabToSpawn: {fileID: 7253407943263345316, guid: 6a3db440a99d1aa4498fca42ce1b8adc, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &1018405741
 GameObject:
@@ -15592,7 +16132,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1047848647}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1047848649}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1047848647
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15643,7 +16195,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 9020240384626450660, guid: 55c9e75015f784f42b56dbb891ea215b, type: 3}
+  prefabToSpawn: {fileID: 8447256428924859539, guid: 50121cd89cfb8c64ab64e891a4087f30, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &1054020589
 GameObject:
@@ -16357,7 +16909,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1098921456}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1098921458}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1098921456
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16408,7 +16972,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 4701698375480238042, guid: 330216eb1891feb4cbce610a20fb4777, type: 3}
+  prefabToSpawn: {fileID: 3339811147875554066, guid: b6c72c63442c2724ca5954a8938f8d40, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &1113538158
 GameObject:
@@ -17337,7 +17901,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1160393617}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1160393619}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1160393617
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17388,7 +17964,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 2300167903801748260, guid: 39e0a76f993473541a9c5ccb943251b1, type: 3}
+  prefabToSpawn: {fileID: 8147412391042951639, guid: d0b6b71986736b541aeb1db50aedc1b7, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &1182058713
 GameObject:
@@ -17547,7 +18123,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1184738544}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1184738546}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1184738544
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17598,7 +18186,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 5422186006090354623, guid: 63b22d8aca1417946b0d54198de0fa28, type: 3}
+  prefabToSpawn: {fileID: 7586308921064148114, guid: c213acb488d73a443a4c19e03517818b, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &1190532719
 GameObject:
@@ -17682,7 +18270,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1190532722}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1190532724}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1190532722
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17733,7 +18333,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 6178045800753394194, guid: 11594001d0b820d499519e5f214adbdd, type: 3}
+  prefabToSpawn: {fileID: 5533444046529373771, guid: f037dda21195720449c45ba23c9ce1af, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &1197289118
 GameObject:
@@ -18042,7 +18642,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1208913392}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1208913394}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1208913392
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18093,7 +18705,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 8837956355846622682, guid: 574be7c6f9c0220408f199d4ecdbcbba, type: 3}
+  prefabToSpawn: {fileID: 5782083731308819257, guid: 14371c86d816fe44c8606a47f9e11d1e, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &1215210799
 GameObject:
@@ -18252,7 +18864,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1218094367}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1218094369}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1218094367
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18303,7 +18927,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 2426934068384409272, guid: 077c4cedae7dc124d891d66b5cee25ae, type: 3}
+  prefabToSpawn: {fileID: 4297539279475852112, guid: e770a9ff1bb9152438220e3c4f3f929b, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &1223914617
 GameObject:
@@ -18387,7 +19011,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1223914620}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1223914622}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1223914620
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18438,7 +19074,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 6062266326858806847, guid: b7c420745d57e22468edf5cc49801f19, type: 3}
+  prefabToSpawn: {fileID: 3283891037407654693, guid: 9f603fbb1b29dd84c9c93b9ff474fb0e, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &1243917260
 GameObject:
@@ -18655,7 +19291,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1249323638}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1249323640}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1249323638
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18706,7 +19354,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 5270169194989629799, guid: dc22c023fb9930b4481bd7a05e626fdd, type: 3}
+  prefabToSpawn: {fileID: 907892677045481428, guid: 3a4771d448f21c546984ba0d298cd1a3, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &1256442747
 GameObject:
@@ -19135,7 +19783,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1268372272}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1268372274}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1268372272
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19186,7 +19846,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 6311384445154339792, guid: 9e7e6f1d049687046ba5480ca58a19d1, type: 3}
+  prefabToSpawn: {fileID: 8349691434528840698, guid: d9f6a37f4c79d694080f4c14154c9765, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &1271319148
 GameObject:
@@ -20402,7 +21062,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1363916212}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1363916214}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1363916212
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20453,7 +21125,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 8745565626065185209, guid: 86a867bbb84c7d34fa4063b763e697da, type: 3}
+  prefabToSpawn: {fileID: 8664659899191006547, guid: 18a2ffeea9fcd114eac2a16527e2ed01, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &1384768168
 GameObject:
@@ -20967,7 +21639,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1398339705}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1398339707}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1398339705
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21018,7 +21702,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 1457609932752733569, guid: 006c86ff2745a0a429644113ac91c7e6, type: 3}
+  prefabToSpawn: {fileID: 584449397995713265, guid: d0dee04eff03732488dbc8e1de0ed245, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &1399348663
 GameObject:
@@ -21641,7 +22325,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1421616631}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1421616633}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1421616631
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21692,7 +22388,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 4083318869684167768, guid: 1eb9a46ce37cd7949b58d721af35e5d6, type: 3}
+  prefabToSpawn: {fileID: 3581837685587337237, guid: bcf0104323b8e934ea7b265584054812, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &1438446728
 GameObject:
@@ -22627,7 +23323,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1597738288}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1597738290}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1597738288
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22678,7 +23386,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 5817891417195079779, guid: a4de90f037c49204faee9f47498bae2c, type: 3}
+  prefabToSpawn: {fileID: 5118531081217250694, guid: 843f7c0225291c042ad4b7f47a9f6a06, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &1601011284
 GameObject:
@@ -23109,7 +23817,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1606693948}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1606693950}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1606693948
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23160,7 +23880,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 5804739960205613760, guid: 16f1bef745ac42942a7a6a1cf1732a4f, type: 3}
+  prefabToSpawn: {fileID: 2943033367319402125, guid: d6fe3ee1ec411b242b4bc9f5d9d8e409, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &1614089912
 GameObject:
@@ -24662,7 +25382,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1691732519}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1691732521}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1691732519
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24713,7 +25445,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 816309807074593805, guid: eb5758cb7400cc44a8d66e76c35a33df, type: 3}
+  prefabToSpawn: {fileID: 1141143916051705295, guid: 7b6b3f7938f320540b994c72beef1d30, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &1703232968
 GameObject:
@@ -24797,7 +25529,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1703232971}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1703232973}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1703232971
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24848,7 +25592,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 6716960711912681469, guid: cadbe8b0ebb77b943a1e6f6872155ada, type: 3}
+  prefabToSpawn: {fileID: 20941621433131799, guid: 74388a1309041c1479d538192735052c, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &1705265698
 GameObject:
@@ -25208,7 +25952,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1711882370}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1711882372}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1711882370
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25259,7 +26015,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 4723489178590771404, guid: 9c8e3fcc941797e49bbd5163585d6ec1, type: 3}
+  prefabToSpawn: {fileID: 7733177540481704237, guid: 6ca8bead0334955409e40842189e1da8, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &1718177442
 GameObject:
@@ -25421,7 +26177,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1733240460}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1733240462}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1733240460
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25472,7 +26240,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 3040062666377116856, guid: 8ece1f65a132595448128f97942b0b29, type: 3}
+  prefabToSpawn: {fileID: 8693242591200834004, guid: 293fd4322f1f0d34a8f5e2701b9c4366, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &1752688247
 GameObject:
@@ -25556,7 +26324,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1752688250}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1752688252}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1752688250
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25607,7 +26387,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 9059940050018145866, guid: b6b1767d69527124eae3f270c222e12f, type: 3}
+  prefabToSpawn: {fileID: 1617130912838110751, guid: d784bffc50b719e4b96a1ff1cbca06a7, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &1755333562
 GameObject:
@@ -25966,7 +26746,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1779122635}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1779122637}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1779122635
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26017,7 +26809,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 7151847172065352024, guid: 4ff3f6ea1cd64794bb5f3994a7323b65, type: 3}
+  prefabToSpawn: {fileID: 4762639600071915083, guid: 6b86f913fca632c4ea7065388166c538, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &1796639410
 GameObject:
@@ -26756,7 +27548,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1867504385}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1867504387}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1867504385
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26807,7 +27611,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 1063579163250750520, guid: a3040bc6df7bde6478d40c9ab91e0f70, type: 3}
+  prefabToSpawn: {fileID: 2705092543483636420, guid: d5415b802e6704842ae475faa89b20d1, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &1871197328
 GameObject:
@@ -27055,7 +27859,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1888234481}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1888234483}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1888234481
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27106,7 +27922,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 228653950994685000, guid: c61af310d1968cf4a9f9ec63e03ee116, type: 3}
+  prefabToSpawn: {fileID: 4321084951593520496, guid: f23b90efddfa12e49a5de0ec96a56f48, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &1892101756
 GameObject:
@@ -27784,7 +28600,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1984334488}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1984334490}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1984334488
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27835,7 +28663,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 210720568997806590, guid: 9a282d4b74dd226438328640c00f97b7, type: 3}
+  prefabToSpawn: {fileID: 9071999007732944503, guid: 79dce72cdd93cbc449fab140e484f723, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &1986283909
 GameObject:
@@ -28256,7 +29084,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2005121866}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 2005121868}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &2005121866
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28307,7 +29147,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 3375180847733475790, guid: 93d4cbfc08703994d91c126923ad61f2, type: 3}
+  prefabToSpawn: {fileID: 6221477020782999569, guid: a13e141ddced2e04ba10595d3366278b, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &2009681543
 GameObject:
@@ -28468,7 +29308,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2022296631}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 2022296633}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &2022296631
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28519,7 +29371,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 2406319637809625952, guid: 3621b9bde85602d47bb60a9da2290ebb, type: 3}
+  prefabToSpawn: {fileID: 2725641444110859892, guid: e765d2fa9e563564ca9d2a0e8c6ce49c, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &2032684075
 GameObject:
@@ -29192,7 +30044,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2077235706}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 2077235708}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &2077235706
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29243,7 +30107,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 8266114346310984027, guid: 0d422bf7313ded9468dcc42130d907d6, type: 3}
+  prefabToSpawn: {fileID: 5731814652547255459, guid: 9b108ec1afe7fa244873ab16afbd48c9, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &2084260577
 GameObject:
@@ -29673,7 +30537,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2101355675}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 2101355677}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &2101355675
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29724,7 +30600,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 1271615113036398981, guid: dbd9721db83d673479f11209759314f8, type: 3}
+  prefabToSpawn: {fileID: 5183706570061113201, guid: 27163fb759892f54191b0822fa3981da, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &2105382776
 GameObject:
@@ -30068,7 +30944,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2135143558}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 2135143560}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &2135143558
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30119,7 +31007,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 2090787261328619508, guid: 3b040714512c21b4eb12bf1fc8edebef, type: 3}
+  prefabToSpawn: {fileID: 3384834244304296542, guid: eb43edf969f03c04f9318cad57175bdb, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!1 &2146068904
 GameObject:
@@ -30203,7 +31091,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2146068907}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 2146068909}
+        m_TargetAssemblyTypeName: SpawnScript, Assembly-CSharp
+        m_MethodName: SpawnPrefab
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &2146068907
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30254,7 +31154,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dcb0affd67343e4897f9c43c29b9642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 2689406150361620366, guid: 0cc887a4556130b41ad0656e20ad6903, type: 3}
+  prefabToSpawn: {fileID: 4410894278794696489, guid: 56507467e1da4e84a96a08fdb9289899, type: 3}
   emptyGameObject: {fileID: 1018405741}
 --- !u!20 &2600533693466030462 stripped
 Camera:
@@ -30274,10 +31174,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 7493527653082413443, guid: 56bfc1f79f8da2649ac3014048cc66e5, type: 3}
-      propertyPath: m_Name
-      value: Main Camera
-      objectReference: {fileID: 0}
     - target: {fileID: 1117938970107211637, guid: 56bfc1f79f8da2649ac3014048cc66e5, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -30317,6 +31213,10 @@ PrefabInstance:
     - target: {fileID: 1117938970107211637, guid: 56bfc1f79f8da2649ac3014048cc66e5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7493527653082413443, guid: 56bfc1f79f8da2649ac3014048cc66e5, type: 3}
+      propertyPath: m_Name
+      value: Main Camera
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
