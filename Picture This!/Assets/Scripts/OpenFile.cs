@@ -58,6 +58,9 @@ public class OpenFile : MonoBehaviour
             PatternOptions.SetActive(false);
             SpotsOptions.SetActive(false);
             StripesOptions.SetActive(false); */
+
+            ColorfulPaperBlue.SetActive(false);
+            ColorfulPaperPink.SetActive(false);
         }
             
             
