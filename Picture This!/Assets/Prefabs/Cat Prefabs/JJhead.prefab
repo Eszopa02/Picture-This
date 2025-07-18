@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4272024625656904404}
   - component: {fileID: 2726849698733888871}
-  - component: {fileID: -6805839501884668440}
+  - component: {fileID: -4208847130669671765}
   m_Layer: 0
   m_Name: JJhead
   m_TagString: Untagged
@@ -85,7 +85,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &-6805839501884668440
+--- !u!114 &-4208847130669671765
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -94,6 +94,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 1544622748732356281}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 615336c339191db42a5d16ac455e4ad2, type: 3}
+  m_Script: {fileID: 11500000, guid: c52c447aab729fa47b1cd7fde00c9b9d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
