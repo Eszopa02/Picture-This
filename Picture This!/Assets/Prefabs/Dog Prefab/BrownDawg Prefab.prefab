@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 938176707768054196}
   - component: {fileID: 1740659451369130577}
   - component: {fileID: 6088292976960712670}
+  - component: {fileID: -5622640842152438046}
   m_Layer: 5
   m_Name: BrownDawg Prefab
   m_TagString: Untagged
@@ -90,3 +91,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   imageTransform: {fileID: 744547680575504472}
   mainCamera: {fileID: 7852193303743357704, guid: 56bfc1f79f8da2649ac3014048cc66e5, type: 3}
+--- !u!114 &-5622640842152438046
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2725641444110859892}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 379901c00bf85d247a0cc8efc226e37d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  zoomSpeed: 1
+  minSize: 0.1
+  maxSize: 5

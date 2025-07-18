@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 2611710925778766334}
   - component: {fileID: 8718059584922979841}
   - component: {fileID: 4872958773681342620}
+  - component: {fileID: -260958322745944059}
   m_Layer: 5
   m_Name: f
   m_TagString: Untagged
@@ -90,3 +91,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   imageTransform: {fileID: 4158049392361112778}
   mainCamera: {fileID: 7852193303743357704, guid: 56bfc1f79f8da2649ac3014048cc66e5, type: 3}
+--- !u!114 &-260958322745944059
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8147412391042951639}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 379901c00bf85d247a0cc8efc226e37d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  zoomSpeed: 1
+  minSize: 0.1
+  maxSize: 5

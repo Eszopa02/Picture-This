@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 6302195212027738942}
   - component: {fileID: 6195974584235402580}
   - component: {fileID: 8833728175538777567}
+  - component: {fileID: -8911365492939917058}
   m_Layer: 5
   m_Name: BlueFlower Prefab
   m_TagString: Untagged
@@ -90,3 +91,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   imageTransform: {fileID: 4470300096362348868}
   mainCamera: {fileID: 7852193303743357704, guid: 56bfc1f79f8da2649ac3014048cc66e5, type: 3}
+--- !u!114 &-8911365492939917058
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5731814652547255459}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 379901c00bf85d247a0cc8efc226e37d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  zoomSpeed: 1
+  minSize: 0.1
+  maxSize: 5
