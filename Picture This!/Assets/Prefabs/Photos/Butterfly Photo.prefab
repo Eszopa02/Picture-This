@@ -106,3 +106,5 @@ MonoBehaviour:
   zoomSpeed: 1
   minSize: 0.1
   maxSize: 5
+  scaleSpeed: 0.1
+  heldObject: {fileID: 6619607427146195178}

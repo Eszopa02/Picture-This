@@ -89,9 +89,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 379901c00bf85d247a0cc8efc226e37d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  zoomSpeed: 1
-  minSize: 0.1
-  maxSize: 5
+  myImage: {fileID: 7837855751495169135}
+  scaleSensitivity: 0.1
+  minScale: 0.5
+  maxScale: 2
 --- !u!114 &6693273341913604891
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -1,37 +1,54 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.EventSystems;
 
-public class StickerScaler : MonoBehaviour
+public class StickerScaler : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
 {
-    public float zoomSpeed = 1.0f;
-    public float minSize = 0.1f;
-    public float maxSize = 5.0f;
+    [SerializeField] private float zoomRate = 0.1f; 
+    [SerializeField] private float minScale = 0.5f; 
+    [SerializeField] private float maxSize = 2.0f; 
 
-    private Vector3 initialScale;
-
-    void Start()
-    {
-        initialScale = transform.localScale;
-    }
-
+    private bool mouseOverImage = false; 
 
     void Update()
     {
-        float scrollInput = Input.GetAxis("Mouse ScrollWheel");
-
-        if (scrollInput != 0)
+  
+        if (mouseOverImage && Input.GetAxis("Mouse ScrollWheel") != 0)
         {
+            float scrollWheelInput = Input.GetAxis("Mouse ScrollWheel");
+
+ 
             Vector3 currentScale = transform.localScale;
-            float newXScale = currentScale.x + scrollInput * zoomSpeed;
-            float newYScale = currentScale.y + scrollInput * zoomSpeed;
-            float newZScale = currentScale.z + scrollInput * zoomSpeed;
+            float newScaleFactor = currentScale.x; 
 
-            newXScale = Mathf.Clamp(newXScale, initialScale.x * minSize, initialScale.x * maxSize);
-            newYScale = Mathf.Clamp(newYScale, initialScale.y * minSize, initialScale.y * maxSize);
-            newZScale = Mathf.Clamp(newZScale, initialScale.z * minSize, initialScale.z * maxSize);
+            if (scrollWheelInput > 0) 
+            {
+                newScaleFactor *= (1 + zoomRate);
+            }
+            else if (scrollWheelInput < 0) 
+            {
+                newScaleFactor /= (1 + zoomRate);
+            }
 
-            transform.localScale = new Vector3(newXScale, newYScale, newZScale);
+            
+            newScaleFactor = Mathf.Clamp(newScaleFactor, minScale, maxSize);
+
+            
+            transform.localScale = new Vector3(newScaleFactor, newScaleFactor + 1, 1);
         }
+    }
+
+    
+    public void OnPointerEnter(PointerEventData eventData)
+    {
+        mouseOverImage = true;
+    }
+
+    
+    public void OnPointerExit(PointerEventData eventData)
+    {
+        mouseOverImage = false;
     }
 }
