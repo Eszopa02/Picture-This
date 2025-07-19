@@ -5,11 +5,13 @@ using UnityEngine.UI;
 
 public class ImageChanger : MonoBehaviour
 {
-    public Image targetImage;
+    public Image rightImage;
+    public Image leftImage;
     public Sprite newImage;
 
     public void ChangeImage()
     {
-        targetImage.sprite = newImage;
+        rightImage.sprite = newImage;
+        leftImage.sprite = newImage;
     }
 }
